@@ -1,0 +1,886 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"crawl"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"Ot",
+				"OneEntrance"
+			],
+			[
+				"ma",
+				"maxR"
+			],
+			[
+				"se",
+				"seen"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"tra",
+				"train_set_x"
+			],
+			[
+				"sh",
+				"show_as_img"
+			],
+			[
+				"I",
+				"Ita2Fr"
+			],
+			[
+				"un",
+				"unwords"
+			],
+			[
+				"f2",
+				"f2eDict"
+			],
+			[
+				"print",
+				"printTree"
+			],
+			[
+				"raw",
+				"raw2"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"entr",
+				"entry"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"de",
+				"definition"
+			],
+			[
+				"co",
+				"cols"
+			],
+			[
+				"s",
+				"score"
+			],
+			[
+				"n",
+				"nChooseK"
+			],
+			[
+				"re",
+				"recSolve"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"pr",
+				"printAll"
+			],
+			[
+				"m",
+				"main	method (main)"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"pu",
+				"pu	public"
+			],
+			[
+				"e",
+				"exp"
+			],
+			[
+				"we",
+				"weights"
+			],
+			[
+				"hidden",
+				"hidden_deltas"
+			],
+			[
+				"output",
+				"output_deltas"
+			],
+			[
+				"ou",
+				"output_deltas"
+			],
+			[
+				"hi",
+				"hidden_deltas"
+			],
+			[
+				"ba",
+				"battlestar_galactica"
+			],
+			[
+				"th",
+				"the_millenium_falcon"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"in",
+				"infinity"
+			],
+			[
+				"inver",
+				"inverseIndex"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"key",
+				"keylist"
+			],
+			[
+				"ref",
+				"ref2"
+			],
+			[
+				"Ne",
+				"NewRowList"
+			],
+			[
+				"DO",
+				"DotList"
+			],
+			[
+				"mo",
+				"move"
+			],
+			[
+				"New",
+				"NewRowList"
+			],
+			[
+				"tem",
+				"Temp2"
+			],
+			[
+				"Te",
+				"Temp1"
+			],
+			[
+				"Temp",
+				"Temp1"
+			],
+			[
+				"T",
+				"Temp1"
+			],
+			[
+				"Dot",
+				"DotList"
+			],
+			[
+				"Do",
+				"DotList"
+			],
+			[
+				"lis",
+				"list_of_numbers"
+			],
+			[
+				"NE",
+				"NewRight"
+			],
+			[
+				"N",
+				"NewLeft"
+			],
+			[
+				"L",
+				"LB"
+			],
+			[
+				"sk",
+				"sky_line"
+			],
+			[
+				"di",
+				"dist"
+			],
+			[
+				"pro",
+				"profit_dict"
+			],
+			[
+				"R",
+				"RowNames"
+			],
+			[
+				"Row",
+				"RowNames"
+			],
+			[
+				"Ro",
+				"RowNames"
+			],
+			[
+				"RO",
+				"RowCount"
+			],
+			[
+				"cost",
+				"costs"
+			],
+			[
+				"pre",
+				"preciselyOneMeat"
+			],
+			[
+				"no",
+				"noattack"
+			],
+			[
+				"move",
+				"move_cyclefree"
+			],
+			[
+				"Re",
+				"RevPath"
+			],
+			[
+				"St",
+				"Stacks"
+			],
+			[
+				"Sta",
+				"Stack2"
+			],
+			[
+				"so",
+				"sorted_difs"
+			],
+			[
+				"spl",
+				"splits"
+			],
+			[
+				"id",
+				"idx"
+			],
+			[
+				"idx",
+				"idxs"
+			],
+			[
+				"ver",
+				"verts"
+			],
+			[
+				"g",
+				"get_held"
+			],
+			[
+				"t",
+				"temps"
+			],
+			[
+				"te",
+				"templ"
+			],
+			[
+				"o",
+				"OrderedDict"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"ne",
+				"negM"
+			],
+			[
+				"j",
+				"jpeg_image_name"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"d",
+				"difs"
+			],
+			[
+				"sp",
+				"spaces"
+			],
+			[
+				"st",
+				"stdev"
+			],
+			[
+				"spa",
+				"spaces"
+			],
+			[
+				"nu",
+				"num_rows"
+			],
+			[
+				"bi",
+				"biggest_dif"
+			],
+			[
+				"ima",
+				"image_indices"
+			],
+			[
+				"np",
+				"np_im"
+			],
+			[
+				"is",
+				"is_empty"
+			],
+			[
+				"an",
+				"angle_f"
+			],
+			[
+				"ser",
+				"servo"
+			],
+			[
+				"set",
+				"setup_term_cont"
+			],
+			[
+				"P",
+				"PairGameEasy"
+			],
+			[
+				"l",
+				"lvls"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"pl",
+				"plt"
+			],
+			[
+				"plo",
+				"plot_data"
+			],
+			[
+				"lin",
+				"line"
+			],
+			[
+				"p",
+				"predict_last"
+			],
+			[
+				"pn",
+				"pn_minus_1"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"min",
+				"minValue"
+			],
+			[
+				"dif",
+				"difItems"
+			],
+			[
+				"cl",
+				"closedList"
+			],
+			[
+				"Tra",
+				"TaroGrid"
+			],
+			[
+				"sn",
+				"sn_total"
+			],
+			[
+				"vali",
+				"valid_set"
+			],
+			[
+				"oe",
+				"operator_list"
+			],
+			[
+				"num",
+				"number_list"
+			],
+			[
+				"wh",
+				"what"
+			],
+			[
+				"train",
+				"train_set"
+			],
+			[
+				"ds",
+				"dsv"
+			],
+			[
+				"duration",
+				"durationValues"
+			],
+			[
+				"plan",
+				"plannedValueValues"
+			],
+			[
+				"syn",
+				"syn"
+			],
+			[
+				"ori",
+				"originalList"
+			],
+			[
+				"get",
+				"getSynonyms"
+			],
+			[
+				"ps",
+				"pass"
+			],
+			[
+				"ge",
+				"getNumSenses"
+			],
+			[
+				"sy",
+				"sys"
+			],
+			[
+				"term",
+				"terms_nodes"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"dat",
+				"dataBaseConnection"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"vis",
+				"visible_texts"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Tralfamador/taskbuster_project"
+	],
+	"file_history":
+	[
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/review",
+		"/Users/Tralfamador/Desktop/Sunlight/doc/notes.txt",
+		"/Users/Tralfamador/Desktop/Sunlight/scrapers-us-state/la/crawl_la.py",
+		"/Users/Tralfamador/Desktop/Sunlight/scrapers-us-state/la/disclosures.py",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture-6",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture06-5.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/A4/assignment4_done.txt",
+		"/Users/Tralfamador/Desktop/Motto",
+		"/Users/Tralfamador/Desktop/BokehTutorial/exercises/histogram.py",
+		"/Users/Tralfamador/Desktop/notebook.sh",
+		"/Users/Tralfamador/Desktop/492/src/transformation.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/MyWork/FirstPass/mlp.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/MyWork/FirstPass/model_out.py",
+		"/Users/Tralfamador/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/492/CNN-SVM/mlp.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/492/CNN-SVM/transformation.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/492/CNN-SVM/permutor.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/492/CNN-SVM/cenparmi_logistic_sgd.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/492/CNN-SVM/mytest.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/492/CNN-SVM/my_mlp.py",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/A2/hello.hs",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/A2/eggsactly.hs",
+		"/Users/Tralfamador/Documents/Nureva/moving/hydro account info",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/rawArchive.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture01.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/393/Outline",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial12/IntList.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial12/IntListSol.java",
+		"/Users/Tralfamador/Desktop/test.py",
+		"/Users/Tralfamador/Desktop/tree.py",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial11_Solution/Temperature.java",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/semester_review.hs",
+		"/Users/Tralfamador/Desktop/finances.py",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/MyWork/FirstPass/convolutional_mlp.py",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/A#/a3.hs",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/MagazineList.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/SimpleListIndexOutOfBoundsException.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/SimpleList.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/Node1.java",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/A#/nQs.hs",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/GenericLinkedListDemo.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/Entry.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/LinkedList1Demo.java",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/A#/translate.hs",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/MagazineRack.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/SimpleIterator.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/Magazine.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/SimpleArrayList.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/Decode.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/LinkedList1.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/BinarySearchTreeDemo.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/IntTree.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/SimpleLinkedList.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/QueueDemo.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/LinkedList2.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/Queue.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Chap15/LinkedList3.java",
+		"/Users/Tralfamador/Desktop/Driver (1).java",
+		"/Users/Tralfamador/Desktop/route.pl",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/Labs/funct_test.hs",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial06/Tut06_Solution/SolutionTutorial6/CountWriter.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial06/Tut06_Solution/SolutionTutorial6/MakeBinaryFile.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial06/Tut06_Solution/SolutionTutorial6/Question1.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial06/Tut06_Solution/SolutionTutorial6/Question3.java",
+		"/Users/Tralfamador/Desktop/temp.py",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture6-5",
+		"/Users/Tralfamador/Desktop/oldDesktop/490/MyWork/FirstPass/transformation.py",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial06/Tut06_Solution/SolutionTutorial6/CountReader.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial09/Tutorial09_Solution/Tut09_Question1.java",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/assignment02.txt",
+		"/Users/Tralfamador/Desktop/snowball.sh",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/more_348_notes.txt",
+		"/Users/Tralfamador/Desktop/Game V2.1/src/main.java",
+		"/Users/Tralfamador/Desktop/Game V2.1/src/Game.java",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/notes for 348 march 16",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial09/Basket.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial09/FilesForTutorial09/NonGenDemo.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial09/Tutorial09_Solution/GenMethDemo.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial09/Tutorial09_Solution/GenDemo.java",
+		"/Users/Tralfamador/Desktop/TODO",
+		"/Users/Tralfamador/Desktop/alg.py",
+		"/Users/Tralfamador/Desktop/alg2.py",
+		"/Users/Tralfamador/Documents/Nureva/backgroundCheck.txt",
+		"/Users/Tralfamador/Desktop/music_transform.py",
+		"/Users/Tralfamador/Desktop/puzzle_image.py",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/sigmoid.m",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/predict.m",
+		"/Users/Tralfamador/Documents/School/CSGames/ml/ml.py",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture02-new.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture02.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture03.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture04-1.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture05-5.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/lecture04_real.txt",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/348 Review",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/fmincg.m",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/checkNNGradients.m",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/randInitializeWeights.m",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/computeNumericalGradient.m",
+		"/Users/Tralfamador/Desktop/neural.py",
+		"/Users/Tralfamador/Desktop/puzzle_hero.pl",
+		"/Users/Tralfamador/Desktop/logic4.pl",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/nnCostFunction.m",
+		"/Users/Tralfamador/Documents/School/Coursera/MachineLearning Ng/MATLAB/ML/ex4-NeuralNetworkLearning/mlclass-ex4/sigmoidGradient.m",
+		"/Users/Tralfamador/Documents/School/TA/249/Lab2/SectionSA.java",
+		"/Users/Tralfamador/Desktop/tc3.py",
+		"/Users/Tralfamador/Documents/School/TA/474/labs/lab3.pl",
+		"/Users/Tralfamador/Documents/School/TA/474/A1/test.pl",
+		"/Users/Tralfamador/Documents/School/Coursera/LinearAlgebra/matrix/coursera_submit.py",
+		"/Users/Tralfamador/Documents/School/Coursera/LinearAlgebra/matrix/vec.py",
+		"/Users/Tralfamador/Documents/School/Coursera/LinearAlgebra/matrix/inverse_index_lab.py",
+		"/Users/Tralfamador/Documents/School/TA/474/A1/dots.pl",
+		"/Users/Tralfamador/Documents/School/Coursera/LinearAlgebra/matrix/The_Function_problems.py",
+		"/Users/Tralfamador/Documents/School/Coursera/LinearAlgebra/matrix/The_Field_problems.py",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial05/Tut05_Solution/CLUES.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial05/Tut05_Solution/BorrowException.java",
+		"/Users/Tralfamador/Documents/School/Coursera/LinearAlgebra/matrix/python_lab.py",
+		"/Users/Tralfamador/Documents/School/TA/474/labs/farmer_duck_grain.pl",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial05/Tut05_Solution/Library.java",
+		"/Users/Tralfamador/Documents/School/Coursera/LinearAlgebra/matrix/python_lab (1).py",
+		"/Users/Tralfamador/Documents/School/Winter 2015/348/A1/a1.hs",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial04/Ghost.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial04/Tut04_Solution/AbstractAreas.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial04/Polymorph.java",
+		"/Users/Tralfamador/Documents/School/TA/249/Tutorial04/Tut04_Solution.zip",
+		"/Users/Tralfamador/Documents/School/TA/474/A1/dotsDisp.pl",
+		"/Users/Tralfamador/Documents/School/TA/474/farmerSol.pl",
+		"/Users/Tralfamador/Desktop/tc.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arg",
+			"nan",
+			"domain",
+			"domai",
+			"y",
+			"\n    ",
+			"palin",
+			"E126 continuation",
+			"ActivityOnNodeNetwork",
+			"ruler",
+			"ArrowNetwork",
+			"Schedule",
+			"arg",
+			"massi",
+			"ry",
+			"planet",
+			"music",
+			"print",
+			"prin",
+			"du",
+			"user",
+			"		\n",
+			"netname",
+			"text",
+			"title_box",
+			"time",
+			"\"http://gbvdb.com/album.asp?albumid=",
+			"ID",
+			"role",
+			"matched_dense_and_col",
+			"matched_hard",
+			"matched_hard_and",
+			"perm",
+			"NUMBER",
+			"actuate",
+			"while",
+			"loop",
+			"write",
+			"used",
+			"X",
+			"use_se"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 406.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TaskBuster.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/School/Winter 2015/348/A4/assignment4.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
